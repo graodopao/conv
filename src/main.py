@@ -8,6 +8,7 @@ parser.add_argument("-v", "--value", help="The value to be converted", type=floa
 
 conversiondict = {
     "mb2gb": lambda v : v * 0.001, 
+    "gb2mb": lambda v : v * 1000.0,
 }
 
 def main():
