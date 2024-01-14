@@ -13,8 +13,8 @@ conversiondict = {
     "gb2mb": lambda v : v * 1000.0,
     
     # Time
-    "min2sec": lambda v : v * 60.0
-    "min2hour": lambda v : v / 60.0
+    "min2sec": lambda v : v * 60.0,
+    "min2hour": lambda v : v / 60.0,
 }
 
 def main():
