@@ -1,7 +1,7 @@
 # Conv
 ![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)
 
-A simple python script for converting values, designed to be used on a terminal.
+A simple Python class for converting values.
 
 ## Example
 ```
