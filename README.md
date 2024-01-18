@@ -15,9 +15,11 @@ A simple Python class for converting values.
 ## Supported conversions (more to be added)
 ```
 Numeral system:
+
 bin2dec - Binary to decimal
 
 Data:
+
 mb2gb - Megabyte to gigabyte
 gb2mb - Gigabyte to megabyte
 
