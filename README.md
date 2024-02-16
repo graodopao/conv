@@ -5,11 +5,11 @@ A simple Python class for converting values.
 
 ## Example
 ```
-> Input: conv -m mb2gb -v 2000
-< Output: Converted value:  2.0
+< Input: conv -m mb2gb -v 2000
+> Output: Converted value:  2.0
 
-> Input: conv -m min2sec -v 20
-< Output: Converted value:  1200.0
+< Input: conv -m min2sec -v 20
+> Output: Converted value:  1200.0
 ```
 
 ## Supported conversions (more to be added)
